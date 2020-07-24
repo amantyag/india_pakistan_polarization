@@ -19,10 +19,8 @@ def make_matrix(df_status):
                     if t!=z:
                         if z.lower() in dict_hashtag:
                             if t.lower() in dict_hashtag[z.lower()]:
-                                #print('here')
                                 dict_hashtag[z.lower()][t.lower()] +=s 1
                             else:
-                                #print('there')
                                 dict_hashtag[z.lower()][t.lower()] = 1
                         else:
                             dict_hashtag[z.lower()] = {}
