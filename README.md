@@ -43,7 +43,7 @@ Abhinandan
 
 Data statistics (counts) for tweets collected during and after Pulwama attack. The values in parentheses are network density values.
 
-Statistic | Value | Statitic | Value
+Statistic | Value | Statistic | Value
 ----------|-------|----------|------
 Unique Users | 567K | Mentions |  725K (2.25*1e-6)
 Total Tweets (Including Retweets) | 2.5M  | Reciprocal  |  36K (2.2*1e-7) 
